@@ -15,4 +15,37 @@ RAM usage
 
 INSTALLATION:
 
-from source 
+from source:
+
+git clone https://github.com/Arc1011/Archfetch.git
+
+cd archfetch
+
+python archfetch.py
+
+Binary (recommended)
+
+git clone https://github.com/Arc1011/Archfetch.git
+
+cd archfetch
+
+python -m venv build_env
+
+source build_env/bin/activate 
+
+pip install psutil pyinstaller
+
+pyinstaller --onefile --name archfetch archfetch.py 
+
+sudo cp dist/archfetch /usr/local/bin/
+
+sudo chmod +x /usr/local/bin/archfetch
+
+
+then you can run it anyware using:
+
+archfetch
+
+
+
+I apologize for any mistakes in English
