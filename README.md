@@ -12,3 +12,7 @@ Desktop Environment / Window Manager
 Default shell
 CPU model and core/thread count
 RAM usage
+
+INSTALLATION:
+
+from source 
