@@ -10,8 +10,11 @@ Uptime
 Installed package count (Pacman)
 Desktop Environment / Window Manager
 Default shell
-CPU model and core/thread count
+CPU model and core/thread 
 RAM usage
+<img width="819" height="611" alt="archfetchzdj" src="https://github.com/user-attachments/assets/31e830c5-fe84-4985-9e66-2bdf60af6281" />
+
+
 
 INSTALLATION:
 
