@@ -22,7 +22,7 @@ from source:
 
 git clone https://github.com/Arc1011/Archfetch.git
 
-cd archfetch
+cd Archfetch
 
 python archfetch.py
 
