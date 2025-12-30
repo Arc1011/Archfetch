@@ -30,7 +30,7 @@ Binary (recommended)
 
 git clone https://github.com/Arc1011/Archfetch.git
 
-cd archfetch
+cd Archfetch
 
 python -m venv build_env
 
@@ -43,6 +43,12 @@ pyinstaller --onefile --name archfetch archfetch.py
 sudo cp dist/archfetch /usr/local/bin/
 
 sudo chmod +x /usr/local/bin/archfetch
+
+OR:
+
+git clone https://github.com/Arc1011/Archfetch.git && cd Archfetch
+
+chmod +x install.sh && ./install.sh
 
 
 then you can run it anyware using:
