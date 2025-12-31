@@ -56,6 +56,8 @@ then you can run it anyware using:
 
 archfetch
 
+dependencies: base-devel
+
 
 
 I apologize for any mistakes in English
