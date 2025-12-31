@@ -12,6 +12,9 @@ Desktop Environment / Window Manager
 Default shell
 CPU model and core/thread 
 RAM usage
+GPU model
+indicates how much disk space is used
+shows battery percentage
 
 <img width="819" height="611" alt="V2" src="https://github.com/user-attachments/assets/98baae11-e63c-40d0-b47b-c418b56b19b9" />
 
