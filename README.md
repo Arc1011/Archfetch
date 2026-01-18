@@ -54,6 +54,8 @@ git clone https://github.com/Arc1011/Archfetch.git && cd Archfetch
 
 chmod +x install.sh && ./install.sh
 
+after: rm -rf Archfetch
+
 
 then you can run it anyware using:
 
