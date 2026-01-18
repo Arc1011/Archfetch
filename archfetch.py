@@ -86,7 +86,7 @@ def get_stats():
     ]
 
 def display():
-    # Powrót do starego, sprawdzonego logo
+    # logo
     logo = [
         f"       {BLUE}      /\\      {RESET}",
         f"       {BLUE}     /  \\     {RESET}",
