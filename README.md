@@ -16,7 +16,8 @@ GPU model
 indicates how much disk space is used
 shows battery percentage
 
-<img width="819" height="611" alt="V2" src="https://github.com/user-attachments/assets/98baae11-e63c-40d0-b47b-c418b56b19b9" />
+<img width="819" height="611" alt="V4" src="https://github.com/user-attachments/assets/73671f0e-2692-4266-ab60-42bd927a417b" />
+
 
 
 
